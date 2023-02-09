@@ -1,1 +1,1 @@
-print("MLOPS ")
+print("MLOPS")
